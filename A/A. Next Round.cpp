@@ -18,4 +18,4 @@ int main()
     cout << num_participantes_avanzan << endl;
     return 0;
 }
-
+ 
