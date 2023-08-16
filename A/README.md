@@ -8,6 +8,15 @@
 | [A. Young Physicist](https://codeforces.com/contest/69/problem/A)      | :star:  |1000     | implementation, math , Ad hoc    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codeforces-solutions/blob/main/A/A.%20Young%20Physicist.cpp)         |
 | [A. Police Recruits](https://codeforces.com/problemset/problem/427/A) | :star:  | 800     | implementation, Ad hoc   |[:white_check_mark:](https://github.com/LuizIgnacio2002/codeforces-solutions/blob/main/A/A.%20Police%20Recruits.cpp)           |
 | ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
+| ....      | ...  | ....      | ...    |..           |
 
 
 
