@@ -7,7 +7,7 @@
 | [A. Next Round](https://codeforces.com/contest/158/problem/A)     | :star:  | 800    | special problem, implementation, Ad hoc  | [:white_check_mark:](https://github.com/LuizIgnacio2002/codeforces-solutions/blob/main/A/A.%20Next%20Round.cpp)         |
 | [A. Young Physicist](https://codeforces.com/contest/69/problem/A)      | :star:  |1000     | implementation, math , Ad hoc    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codeforces-solutions/blob/main/A/A.%20Young%20Physicist.cpp)         |
 | [A. Police Recruits](https://codeforces.com/problemset/problem/427/A) | :star:  | 800     | implementation, Ad hoc   |[:white_check_mark:](https://github.com/LuizIgnacio2002/codeforces-solutions/blob/main/A/A.%20Police%20Recruits.cpp)           |
-| ....      | ...  | ....      | ...    |..           |
+| [A. Nearly Lucky Number.cpp](https://codeforces.com/problemset/problem/110/A)      | :star: |800     | implementation, Ad hoc    |[:white_check_mark:](https://github.com/LuizIgnacio2002/codeforces-solutions/blob/main/A/A.%20Nearly%20Lucky%20Number.cpp)          |
 | ....      | ...  | ....      | ...    |..           |
 | ....      | ...  | ....      | ...    |..           |
 | ....      | ...  | ....      | ...    |..           |
